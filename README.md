@@ -1,10 +1,10 @@
-### Hi there 👋
+
 
 <div align="center">
 <img src="https://github.com/bpuppim/bpuppim/blob/main/DS%20image.png" align="center" style="width: 100%" />
 </div>  
   
-
+### Hi there 👋
 ### <div align="center">I'm Bernardo Puppim, a Data Scientist, Mechanical Engineer and addicted to learn new things 👨‍💻</div>  
   
 
@@ -31,7 +31,7 @@
 
 
 ### My Skill Set  
-<div align="center">  
+<!-- <div align="center">. -->  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" />  
