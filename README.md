@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="https://github.com/bpuppim/bpuppim/blob/main/DS%20image.png" align="center" style="width: 100%" />
+<img src="https://github.com/bpuppim/bpuppim/blob/main/DS%20image.png" align="center" style="width: 85%" />
 </div>  
   
 ### Hi there 👋
