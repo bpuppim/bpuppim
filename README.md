@@ -1,4 +1,4 @@
-<!--
+
 
 <div align="center">
 <img src="https://github.com/bpuppim/bpuppim/blob/main/DS_Image.png" align="center" style="width: 100%" />
@@ -96,4 +96,3 @@
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
--->
