@@ -12,7 +12,7 @@
 
 <h2><a href="https://bpuppim.github.io/my_portfolio/" target="blank"> Portfólio de Projetos</a></h2>
 <li><a href="https://github.com/bpuppim/Walmart_HoltWinter" target="blank">Walmart Forecast - HoltWinter Model</a></li>
-  <li><a href="[https://github.com/bpuppim/Walmart_HoltWinter](https://public.tableau.com/views/Holtwinter_dashboard/Dashboard1?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)" target="blank">Tableau Dashboard</a></li>
+</br><a href="https://public.tableau.com/views/Holtwinter_dashboard/Dashboard1?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link"target="blank">Tableau Dashboard</a>
 <li><a href="https://github.com/bpuppim/Rossmann-Forecast"target="blank">Rossmann Forecast</a></li>
 <li><a href="https://github.com/bpuppim/Cross_Selling_Insurance"target="blank">Cross Selling Insurance</a></li>
 <li><a href="https://github.com/bpuppim/Churn_Prediction"   target="blank">Churn Prediction</a></li>
