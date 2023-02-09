@@ -14,7 +14,7 @@
 <ol>
   <li><a href="https://github.com/bpuppim/Walmart_HoltWinter" target="blank">Walmart Forecast - HoltWinter Model</a></li>
   <ul>
-    <li<a href="https://public.tableau.com/views/Holtwinter_dashboard/Dashboard1?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link"target="blank">Tableau Dashboard</a></li>
+    <li><a href="https://public.tableau.com/views/Holtwinter_dashboard/Dashboard1?:language=pt-BR&:display_count=n&:origin=viz_share_link" target="blank">Tableau - Dashboard</a></li>
   </ul>
   <li><a href="https://github.com/bpuppim/Rossmann-Forecast"target="blank">Rossmann Forecast</a></li>
   <li><a href="https://github.com/bpuppim/Cross_Selling_Insurance"target="blank">Cross Selling Insurance</a></li>
